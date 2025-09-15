@@ -54,7 +54,7 @@ To run this project, you need to have Python installed. Follow these steps:
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone https://github.com/ayush-2323/House_Price_Predictor.git
     cd your-repository-name
     ```
 2.  **Create a `requirements.txt` file** with the following content:
